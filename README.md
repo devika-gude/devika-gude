@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Devika Ramani Gude!
 
-🎓 **BSc Computer Science with Data Science** 
+🎓 **BSc Computer Science with Data Science** <br>
 🎯 **Aspiring Full-Stack Developer** 
 
 ✨ I’m passionate about building scalable web applications and exploring the intersection of data and technology. 
@@ -11,7 +11,7 @@
 
 🚀 I’m excited to further develop my skills in web development, embracing new opportunities, learning from the developer community, and actively contributing to open-source projects.
 
-📫 Reach me at: 
+📫 **Reach me at:** 
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:devika.gude2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devika-gude )

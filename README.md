@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m Devika Ramani Gude!<br>💻 BSc Computer Science with Data Science <br>🔧 I’m passionate about building scalable web applications and exploring the intersection of data and technology.<br><br>🌟 Skills & Interests:<br>Full Stack Development: Proficient in HTML, CSS, JavaScript, JAVA, SQL.<br>Data Science: Experienced in data visualization and analysis using Tableau and advanced SQL.<br><br>✨ Always eager to collaborate and learn about innovative technologies.<br><br>📫 Reach me at: devika.gude2005@gmail.com
+# 👋 Hi, I’m Devika Ramani Gude!
+<br>
+
+🎓 #### BSc Computer Science with Data Science #### <br>
+🔧 Aspiring Full-Stack Developer <br>
+🌟 Skills & Interests:<br>Full Stack Development: Proficient in HTML, CSS, JavaScript, JAVA, SQL.<br>Data Science: Experienced in data visualization and analysis using Tableau and advanced SQL.<br><br>✨ Always eager to collaborate and learn about innovative technologies.<br><br>
+📫 Reach me at: devika.gude2005@gmail.com
 
 
 ## 🌐 Socials:
@@ -13,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devika-gude&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devika-gude&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=devika-gude&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devika-gude&icon=9&color=0)](https://visitcount.itsvg.in)

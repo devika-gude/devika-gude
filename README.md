@@ -17,6 +17,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devika-gude )
 
 
-[![](https://visitcount.itsvg.in/api?id=devika-gude&icon=9&color=0)](https://visitcount.itsvg.in)
 
 
